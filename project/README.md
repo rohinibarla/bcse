@@ -11,7 +11,7 @@ I will post the answers @ [bcse.me](https://bcse.me)
 
 Thank you for reading this far, I know that you are interested, you can either post your question or arrange an interactive session in your college. 
 
-To shoot a question directly, you can post it [here](form_to_ask_question).
+To shoot a question directly, you can post it [here](https://forms.gle/H2m8mr9X6cGrEtK68).
 
 To arrange an interactive session in your college for 2 hours, please give [details here](https://forms.gle/Tu7H1Yidj1YDooeP8), I will reach out to you and schedule the appropriate time for interaction.
 
