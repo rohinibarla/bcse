@@ -1,3 +1,14 @@
 https://github.com/mmistakes/so-simple-theme
 
 See if with this theme we could provide search from github pages.
+
+_config.yml
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+This will provide the way. Can be written as blog.
+can be searched.
+
+To enable search:
+search_full_content: true
+
+
