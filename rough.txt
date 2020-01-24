@@ -1,0 +1,3 @@
+https://github.com/mmistakes/so-simple-theme
+
+See if with this theme we could provide search from github pages.
