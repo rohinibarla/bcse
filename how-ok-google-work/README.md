@@ -1,4 +1,4 @@
-### How do voice assistants activate when we say the command like “ok google”?  
+# How do voice assistants activate when we say the command like “ok google”?  
   
 ![Hey Siri](hey-siri-flow.png "Hey Siri")
   
@@ -15,13 +15,13 @@ I turned off Wifi and said, "Hey Siri"..., it woke up and said you are not conne
 So the recognition of speech happens in the device itself.  
   
 . . .  
-
-Now, I want you to understand a few things before...
+  
+Now, I want you to understand a few things before...  
 How is the sound from the microphone taken as input? I wanted to show you the sound waveform, so I searched for tools...  
   
 I found these collections of [audio editing tools](https://www.musicianonamission.com/best-free-audio-editor/). I want a WebApp. Instead of downloading software and installing, you can just use it in the browser...  
    
-Found one: [HYA-WAVE](https://wav.hya.io/#/fx)  
+Found one, but you need to use Chrome or Brave browser: [HYA-WAVE](https://wav.hya.io/#/fx)  
   
 First, do these steps
 1. Download this [mp3 file](how-does-ok-google-work.mp3).
@@ -38,15 +38,20 @@ Now I want to share with you how to zoom the sound waveform, so recorded on my l
 After converting, the [.mp4 file](hey-aai-screencast.mp4) is 1.1 MB. Nice reduction same video from 7.5 MB to 1.1 MB. Here I did not reduce the resolution of the movie. Otherwise, I could get a smaller size.  
   
 Do these steps:
-1. Download the [hey-aai.mp3](hey-aai.mp3) file.
-2. Upload to [HYA-WAVE](https://wav.hya.io/#/fx) WebApp and see how the amplitude of the sound varies with the loudness of the audio.
-3. You can also see the size difference of the [hey-aai.wav file](hey-aai.wav) and the mp3 file.
+1. Download [screencast](hey-aai-screencast.mp4) and see how to zoom a sound waveform.
+2. Download the [hey-aai.mp3](hey-aai.mp3) file.
+3. Upload to [HYA-WAVE](https://wav.hya.io/#/fx) WebApp and see how the amplitude of the sound varies with the loudness of the audio.
+4. Zoom the sound waveform and see for yourself.
 
-Now you have understood how the sound from the microphone is captured and how it is represented.   
-  
-Don't read, only check the diagrams in this article to [understand how speech is porcessed](https://towardsdatascience.com/beginners-guide-to-speech-analysis-4690ca7a7c05).  
+You can also see the size difference of the [hey-aai.wav file](hey-aai.wav) and the mp3 file. Now you have understood how the sound from the microphone is captured and how it is represented.   
    
-Read this paper about: [How "Hey Siri" works?](https://machinelearning.apple.com/2017/10/01/hey-siri.html)  
+Don't worry when you don't understand, you can do these like
++ check the diagrams in the paper.
++ read the introduction and conclusion parts only.
+
+With this attitude, check the diagrams in these article to understand 
++ [How speech is processed](https://towardsdatascience.com/beginners-guide-to-speech-analysis-4690ca7a7c05).  
++ [How "Hey Siri" works?](https://machinelearning.apple.com/2017/10/01/hey-siri.html)  
 
 Now, when your friend comes and says, "Hey Siri", it should not open. But when you say it must open and do what you say.  
   
