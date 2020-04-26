@@ -12,7 +12,7 @@ I turned off Wifi and said, "Hey Siri"..., it woke up and said you are not conne
   
 ![Siri without Wifi](hey-siri-offline.png "Siri in offline also woke up")
 
-So the recognition of speech happens in the device itself.  
+So the recognition of this phrase "Hey Siri" sound to speech happens in the device itself.  
   
 . . .  
   
