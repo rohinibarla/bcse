@@ -23,19 +23,25 @@ I found these collections of [audio editing tools](https://www.musicianonamissio
    
 Found one, but you need to use Chrome or Brave browser: [HYA-WAVE](https://wav.hya.io/#/fx)  
   
+![](how-does-ok-google-work.png)  
+  
+
 First, do these steps
 1. Download this [mp3 file](how-does-ok-google-work.mp3).
 2. Upload to [HYA-WAVE](https://wav.hya.io/#/fx) WebApp.
 3. Play it.
   
 What did I do?  
-I recorded the audio, played with it and downloaded it. I got this file: [how-does-ok-google-work.wav](how-does-ok-google-work.wav), which is of size 7.7 MB. It's to large file to share, so I want to convert it to mp3. Used this convertor: [https://convertio.co/wav-mp3/](https://convertio.co/wav-mp3/)  
+I recorded the audio, played with it and downloaded it. I got this file: [how-does-ok-google-work.wav](how-does-ok-google-work.wav), which is of size 7.7 MB. It's too large file to share, so I want to convert it to mp3. Used this convertor: [https://convertio.co/wav-mp3/](https://convertio.co/wav-mp3/)  
   
 I got an [mp3 file](how-does-ok-google-work.mp3) of size 917 KB. Nice reduction. Same sound from 7.7 MB to 917 KB.  
 
 Now I want to share with you how to zoom the sound waveform, so recorded on my laptop. It's a [.mov file](hey-aai-screencast.mov) of size 7.5 MB. Same problem too large to share, so again convert this to .mp4, for two reasons size and format which all platforms(Windows, macOS, Linux) know how to play it. Used this convertor: 
 [https://cloudconvert.com/mov-to-mp4/](https://cloudconvert.com/mov-to-mp4/)
 After converting, the [.mp4 file](hey-aai-screencast.mp4) is 1.1 MB. Nice reduction same video from 7.5 MB to 1.1 MB. Here I did not reduce the resolution of the movie. Otherwise, I could get a smaller size.  
+  
+![](hey-aai.png)  
+> sound "hey AAI(louder)"
   
 Do these steps:
 1. Download [screencast](hey-aai-screencast.mp4) and see how to zoom a sound waveform.
