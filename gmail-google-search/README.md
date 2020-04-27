@@ -4,10 +4,10 @@
   
 Let's understand the problem. My Gmail account contains say 5GB of data. And the web contains very massive data.  
   
-When I searched for: BM Hegde, the google show that, it took 0.42 secs  
+When I searched for: BM Hegde, the google showed that, it took 0.42 secs  
 > About 13,80,000 results (0.42 seconds) 
   
-When I search for my Gmail. The first time it took time. The following searches were faster. But feels like slower than the google search, in many instances.  
+When I searched in my Gmail. The first time it took time. The following searches were faster. But feels like slower than the google search, in many instances.  
   
 Both in Google search and in our email, suggestions are shown as we type the query. For example, the googles show the auto-suggestions like this  
   
