@@ -75,4 +75,8 @@ I have a few questions for you to ponder?
 
 
 Whatever questions you got, write them down in a book and try to find out the answers. If you have questions about this, you can reach out to me on WhatsApp.
+  
+References:
++ [Audio file formats](https://youtu.be/e6f8Y8W-Iio)
++ [FLAC Vs mp3](https://youtu.be/Zr0womlb8AI)
 
